@@ -1,7 +1,5 @@
 1:hello
 2:add branch dev
-<<<<<<< HEAD
 3:no add
-=======
-3:no add
->>>>>>> featurel
+4:dev
+
